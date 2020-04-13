@@ -1,0 +1,202 @@
+{
+    "nyt://article/0b1f1b1d-24bf-52e0-b307-916979cd1136": {
+        "magnitude": 17.399999618530273,
+        "score": 0.0
+    },
+    "nyt://article/0c53a478-7276-5fe7-abb7-e9272ed0f06b": {
+        "magnitude": 58.099998474121094,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/0e677d7a-6d53-5641-96d4-9c5c9178d92c": {
+        "magnitude": 10.5,
+        "score": 0.10000000149011612
+    },
+    "nyt://article/1292fcd9-40a6-51e1-8754-1e1f072a4e1c": {
+        "magnitude": 15.100000381469727,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/13b8bb68-3473-5a4c-a5d1-e716edf4f619": {
+        "magnitude": 22.100000381469727,
+        "score": 0.0
+    },
+    "nyt://article/1615ddb4-a112-5b19-a004-dde8e7c886e4": {
+        "magnitude": 20.200000762939453,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/215927c9-210c-51e8-8e23-0911c866e6bf": {
+        "magnitude": 14.899999618530273,
+        "score": 0.10000000149011612
+    },
+    "nyt://article/26bd8cfa-9a60-565e-98dd-f8ffb403ec26": {
+        "magnitude": 16.100000381469727,
+        "score": 0.0
+    },
+    "nyt://article/2d39da2c-9806-5d4b-a5c9-47e2e34fee32": {
+        "magnitude": 16.200000762939453,
+        "score": 0.0
+    },
+    "nyt://article/38c3286d-563a-5a36-ba48-883249253341": {
+        "magnitude": 32.400001525878906,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/3fd4c73e-ef03-5c9a-a547-6338d69b93e3": {
+        "magnitude": 8.0,
+        "score": 0.0
+    },
+    "nyt://article/4348a862-8a65-525d-9fb8-d1fe34902265": {
+        "magnitude": 12.800000190734863,
+        "score": 0.0
+    },
+    "nyt://article/4decade8-d244-5b82-8520-c0874f8d036d": {
+        "magnitude": 22.399999618530273,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/556c13b3-5263-5901-86c0-9be2e18222f3": {
+        "magnitude": 16.399999618530273,
+        "score": 0.0
+    },
+    "nyt://article/58a7b1f0-8a7a-5ce6-8449-f572f1a94998": {
+        "magnitude": 10.699999809265137,
+        "score": -0.20000000298023224
+    },
+    "nyt://article/597e8d01-e9e7-55fd-83c9-43e6b8624ad8": {
+        "magnitude": 9.899999618530273,
+        "score": 0.0
+    },
+    "nyt://article/5dfe45e7-c4e4-51c1-be59-0b3db774b006": {
+        "magnitude": 12.300000190734863,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/5f2d6cf8-b179-597a-b5be-87ad48551b69": {
+        "magnitude": 15.899999618530273,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/6437e44e-4931-54f0-b4be-050d948e9ffb": {
+        "magnitude": 12.600000381469727,
+        "score": 0.0
+    },
+    "nyt://article/677522e9-e45d-5b9c-bc15-a03604f156fb": {
+        "magnitude": 17.0,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/770ceb9a-37d5-5be0-8bec-273126d23aff": {
+        "magnitude": 10.100000381469727,
+        "score": -0.20000000298023224
+    },
+    "nyt://article/7970e905-d794-561a-a427-c45ca2ed2db2": {
+        "magnitude": 4.900000095367432,
+        "score": 0.0
+    },
+    "nyt://article/8bde7911-aff5-538b-832c-8e13f45434d4": {
+        "magnitude": 32.0,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/8d3ae5b3-7908-5acf-a963-688ed024008f": {
+        "magnitude": 9.399999618530273,
+        "score": -0.20000000298023224
+    },
+    "nyt://article/9202155c-290a-524c-8db2-c114958a435c": {
+        "magnitude": 21.299999237060547,
+        "score": 0.0
+    },
+    "nyt://article/94b63823-2c37-5d06-9733-acdaabe2b223": {
+        "magnitude": 15.100000381469727,
+        "score": -0.20000000298023224
+    },
+    "nyt://article/97f546c3-3734-5515-b68f-c52704fa801e": {
+        "magnitude": 16.700000762939453,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/9812c1ea-dcc7-525f-a1fa-3a320494a8a8": {
+        "magnitude": 11.5,
+        "score": 0.0
+    },
+    "nyt://article/98d4cb34-4002-5d2e-ab03-294ba830da98": {
+        "magnitude": 21.600000381469727,
+        "score": 0.0
+    },
+    "nyt://article/9bbeebec-53ef-548b-a3d1-108289fec848": {
+        "magnitude": 17.299999237060547,
+        "score": 0.0
+    },
+    "nyt://article/9da31159-a3bf-5123-b92c-bd8576406d4e": {
+        "magnitude": 19.799999237060547,
+        "score": 0.0
+    },
+    "nyt://article/9edc9504-a07d-5cfb-ae3e-71b0a92e9cc4": {
+        "magnitude": 16.899999618530273,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/a9b3be21-7982-58bf-b951-22aa461f403b": {
+        "magnitude": 7.800000190734863,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/b63b1ca6-de55-565c-a447-7257de3a2299": {
+        "magnitude": 7.900000095367432,
+        "score": 0.0
+    },
+    "nyt://article/bb58ec2d-185b-5003-877f-7ad18351fbee": {
+        "magnitude": 3.5999999046325684,
+        "score": 0.0
+    },
+    "nyt://article/c2bdeafb-7ba0-5bd1-a874-d536ba276153": {
+        "magnitude": 15.800000190734863,
+        "score": 0.0
+    },
+    "nyt://article/c9a6fa7b-65f7-5cb8-bf25-c4dad3801983": {
+        "magnitude": 20.0,
+        "score": 0.0
+    },
+    "nyt://article/c9ca0c5d-90dd-5019-95a3-c4fa4aec8efd": {
+        "magnitude": 12.699999809265137,
+        "score": -0.20000000298023224
+    },
+    "nyt://article/ccfedabe-bfba-5dac-b320-7207b0f6a02d": {
+        "magnitude": 10.899999618530273,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/ced890df-98e9-5470-bc99-97af638469e9": {
+        "magnitude": 16.5,
+        "score": 0.0
+    },
+    "nyt://article/d3c9f0cf-4a3d-5bc0-b40e-a86c25c461b4": {
+        "magnitude": 22.899999618530273,
+        "score": 0.0
+    },
+    "nyt://article/d42f5363-0bd6-5602-b60c-f58f9a25db44": {
+        "magnitude": 19.700000762939453,
+        "score": 0.0
+    },
+    "nyt://article/d723aa53-8ad4-56af-a753-7f021744f1c9": {
+        "magnitude": 14.0,
+        "score": 0.0
+    },
+    "nyt://article/df0b38c8-05ca-5e2d-9d14-75f62b8c2a04": {
+        "magnitude": 15.800000190734863,
+        "score": 0.0
+    },
+    "nyt://article/df77ca07-299c-5e29-b324-d39707ff7e65": {
+        "magnitude": 22.600000381469727,
+        "score": -0.20000000298023224
+    },
+    "nyt://article/e132f1f5-b32b-5ac6-bd7d-919b2ee99d6f": {
+        "magnitude": 13.5,
+        "score": 0.0
+    },
+    "nyt://article/e5677abd-a43c-53fa-a41c-d581ba1aab6d": {
+        "magnitude": 27.299999237060547,
+        "score": 0.0
+    },
+    "nyt://article/e8ea060e-e56c-5da3-84f4-a5e4b52a4355": {
+        "magnitude": 7.400000095367432,
+        "score": 0.0
+    },
+    "nyt://article/ead73128-c03e-564a-9703-6faef0edd9e5": {
+        "magnitude": 17.0,
+        "score": -0.10000000149011612
+    },
+    "nyt://article/fd851d29-5042-5bb8-88fa-440ebe9834bb": {
+        "magnitude": 13.199999809265137,
+        "score": -0.20000000298023224
+    }
+}
