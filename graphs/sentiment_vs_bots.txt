@@ -1,0 +1,51 @@
+id,name,sentiment,bots
+nyt://article/9202155c-290a-524c-8db2-c114958a435c,They Watch Trump’s Virus Briefings Daily. Here’s What They Have to Say.,21,0
+nyt://article/8bde7911-aff5-538b-832c-8e13f45434d4,Examining Tara Reade’s Sexual Assault Allegation Against Joe Biden,32,0
+nyt://article/ccfedabe-bfba-5dac-b320-7207b0f6a02d,The ‘Red Dawn’ Emails: 8 Key Exchanges on the Faltering Response to the Coronavirus,11,0
+nyt://article/a9b3be21-7982-58bf-b951-22aa461f403b,Five Takeaways on What Trump Knew as the Virus Spread,8,0
+nyt://article/0c53a478-7276-5fe7-abb7-e9272ed0f06b,He Could Have Seen What Was Coming: Behind Trump’s Failure on the Virus,58,0
+nyt://article/9bbeebec-53ef-548b-a3d1-108289fec848,How the Virus Crisis Could Help a Red-State Democrat Stay in Office,17,0
+nyt://article/c9a6fa7b-65f7-5cb8-bf25-c4dad3801983,Torn Over Reopening Economy, Trump Says He Faces ‘Biggest Decision I’ve Ever Had to Make’,20,0
+nyt://article/6437e44e-4931-54f0-b4be-050d948e9ffb,White House Mounts Heated Attack on a U.S. Government Media Voice,13,0
+nyt://article/c9ca0c5d-90dd-5019-95a3-c4fa4aec8efd,Endorsing Trump’s Firing of Inspector General, Barr Paints Distorted Picture,13,0
+nyt://article/4348a862-8a65-525d-9fb8-d1fe34902265,Trump Backs Off Tougher Food Stamp Work Rules for Now,13,357
+nyt://article/26bd8cfa-9a60-565e-98dd-f8ffb403ec26,Trust in Trump’s Virus Response Is Falling. What Does It Mean for November?,16,1390
+nyt://article/d723aa53-8ad4-56af-a753-7f021744f1c9,Does Vote-by-Mail Favor Democrats? No. It’s a False Argument by Trump.,14,1390
+nyt://article/677522e9-e45d-5b9c-bc15-a03604f156fb,New Trump Ad Suggests a Campaign Strategy Amid Crisis: Xenophobia,17,1033
+nyt://article/58a7b1f0-8a7a-5ce6-8449-f572f1a94998,Barr Defends Trump’s Dismissal of Intelligence Watchdog,11,0
+nyt://article/556c13b3-5263-5901-86c0-9be2e18222f3,Trump Keeps Talking. Some Republicans Don’t Like What They’re Hearing.,16,303
+nyt://article/2d39da2c-9806-5d4b-a5c9-47e2e34fee32,Iowa Was Meaningless,16,303
+nyt://article/3fd4c73e-ef03-5c9a-a547-6338d69b93e3,With a Face Mask Photo, Melania Trump Highlights Her Husband’s Reluctance to Wear One,8,303
+nyt://article/b63b1ca6-de55-565c-a447-7257de3a2299,On Politics: Biden’s Big Challenge,8,0
+nyt://article/ead73128-c03e-564a-9703-6faef0edd9e5,Can Bernie Sanders and Joe Biden Unite the Democratic Party?,17,0
+nyt://article/1615ddb4-a112-5b19-a004-dde8e7c886e4,Why Republicans Are So Afraid of Vote-by-Mail,20,0
+nyt://article/9da31159-a3bf-5123-b92c-bd8576406d4e,In Trump’s Marathon Briefings, the Answers and the Message Are Often Contradictory,20,0
+nyt://article/215927c9-210c-51e8-8e23-0911c866e6bf,Now Comes the Hard Part for Joe Biden,15,0
+nyt://article/fd851d29-5042-5bb8-88fa-440ebe9834bb,Trump Is Pushing a False Argument on Vote-by-Mail Fraud. Here Are the Facts.,13,0
+nyt://article/df0b38c8-05ca-5e2d-9d14-75f62b8c2a04,As Pandemic Imperils Elections, Democrats Clash With Trump on Voting Changes,16,0
+nyt://article/97f546c3-3734-5515-b68f-c52704fa801e,Biden vs. Trump: The General Election Is Here, and Transformed,17,0
+nyt://article/bb58ec2d-185b-5003-877f-7ad18351fbee,On Politics: Trump Pushes Out a Watchdog,4,0
+nyt://article/94b63823-2c37-5d06-9733-acdaabe2b223,Trump Attacks W.H.O. Over Criticisms of U.S. Approach to Coronavirus,15,0
+nyt://article/e132f1f5-b32b-5ac6-bd7d-919b2ee99d6f,What if the Most Important Election of Our Lifetimes Was the Last One?,14,0
+nyt://article/1292fcd9-40a6-51e1-8754-1e1f072a4e1c,Trump Ousts Pandemic Spending Watchdog Known for Independence,15,0
+nyt://article/597e8d01-e9e7-55fd-83c9-43e6b8624ad8,Trump Has a New Press Secretary Who Knows How to Defend Him,10,0
+nyt://article/9812c1ea-dcc7-525f-a1fa-3a320494a8a8,Acting Navy Secretary Resigns After Outcry Over Criticism of Virus-Stricken Crew,12,0
+nyt://article/e8ea060e-e56c-5da3-84f4-a5e4b52a4355,On Politics: Gloves On, Wisconsin Goes to the Polls,7,0
+nyt://article/e5677abd-a43c-53fa-a41c-d581ba1aab6d,Donald Trump and Florida, a Love Affair,27,0
+nyt://article/5dfe45e7-c4e4-51c1-be59-0b3db774b006,Trade Adviser Warned White House in January of Risks of a Pandemic,12,0
+nyt://article/d3c9f0cf-4a3d-5bc0-b40e-a86c25c461b4,Trump’s Aggressive Advocacy of Malaria Drug for Treating Coronavirus Divides Medical Community,23,0
+nyt://article/4decade8-d244-5b82-8520-c0874f8d036d,How a Ship’s Coronavirus Outbreak Became a Moral Crisis for the Military,22,0
+nyt://article/0e677d7a-6d53-5641-96d4-9c5c9178d92c,Biden and Trump Speak About Coronavirus,10,0
+nyt://article/8d3ae5b3-7908-5acf-a963-688ed024008f,Inspector General Fired by Trump Urges Whistle-Blowers ‘to Bravely Speak Up’,9,0
+nyt://article/7970e905-d794-561a-a427-c45ca2ed2db2,On Politics: ‘Our Pearl Harbor Moment’,5,0
+nyt://article/df77ca07-299c-5e29-b324-d39707ff7e65,Ignoring Expert Opinion, Trump Again Promotes Use of Hydroxychloroquine,23,0
+nyt://article/d42f5363-0bd6-5602-b60c-f58f9a25db44,He Led a Top Navy Ship. Now He Sits in Quarantine, Fired and Infected.,20,0
+nyt://article/ced890df-98e9-5470-bc99-97af638469e9,Politics Through the Looking Glass: Virus Scrambles the Left-Right Lines,16,0
+nyt://article/38c3286d-563a-5a36-ba48-883249253341,Trump Proceeds With Post-Impeachment Purge Amid Pandemic,32,0
+nyt://article/5f2d6cf8-b179-597a-b5be-87ad48551b69,Administration Turns to Private Firms to Help Process Small Business Aid,16,0
+nyt://article/c2bdeafb-7ba0-5bd1-a874-d536ba276153,Tensions Persist Between Trump and Medical Advisers Over the Coronavirus,16,0
+nyt://article/13b8bb68-3473-5a4c-a5d1-e716edf4f619,A Debate Over Masks Uncovers Deep White House Divisions,22,0
+nyt://article/770ceb9a-37d5-5be0-8bec-273126d23aff,National Security Court Orders Deeper Look at 29 F.B.I. Wiretap Applications,10,0
+nyt://article/9edc9504-a07d-5cfb-ae3e-71b0a92e9cc4,Trump Seeks to Block 3M Mask Exports and Grab Masks From Its Overseas Customers,17,0
+nyt://article/98d4cb34-4002-5d2e-ab03-294ba830da98,Maryland’s Governor, a Republican, Is Willing to Spar With Trump for Supplies,22,0
+nyt://article/0b1f1b1d-24bf-52e0-b307-916979cd1136,Trump Promotes Oil Deal That May Not Exist,17,0
